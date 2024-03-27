@@ -39,7 +39,7 @@ function main() {
         splashMain = buildDom(`
             <main class="container">
                 <div class="intro">
-                    <h1>Developer <br>
+                    <h1>Developer's <br>
                     Life</h1>
                     <div class="input">
                         <label>Name :</label>
