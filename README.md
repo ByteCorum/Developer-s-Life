@@ -24,8 +24,8 @@ There's no winning condition but the losing condition is: no more lives.
 
 ### ⚙Compile⚙
 
-This project uses SCSS. Use the following line to compile to CSS while you're coding :
+This projecy uses SCSS. Use the following line to compile to CSS while you're coding :
 
-`node-sass --output-style compressed --source-map true --watch style.scss style.css`
+node-sass --output-style compressed --source-map true --watch style.scss style.css
 
 ---
